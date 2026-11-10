@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+  --color-cream: #F3EEE3;
+  --color-dark: #111111;
+  --color-crimson: #7F1D1D;
+}
+
+/* Fallback utility classes just in case */
+.bg-cream { background-color: #F3EEE3; }
+.bg-dark { background-color: #111111; }
+.bg-crimson { background-color: #7F1D1D; }
+
+.text-dark { color: #111111; }
+.text-cream { color: #F3EEE3; }
+.text-crimson { color: #7F1D1D; }
